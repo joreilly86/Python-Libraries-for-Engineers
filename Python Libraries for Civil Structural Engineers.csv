@@ -1,0 +1,87 @@
+﻿Library,Description,tag,Link
+efficalc,Render Python calculations clearly for review/reports,scientific computing,https://github.com/youandvern/efficalc
+SciPy,Scientific and technical computing,scientific computing,scipy.org
+NumPy,"Advanced mathematical functions, array operations",scientific computing,numpy.org
+SymPy,Symbolic mathematics,scientific computing,sympy.org
+Jupyter Notebook,It's not a library but interactive computing,scientific computing,jupyter.org
+PySpark,"Real-time, large-scale data processing",Data Visualization,https://domino.ai/data-science-dictionary/pyspark
+Polars,Performant dataframe library for managing structured data,Data Visualization,https://pola.rs/
+Pandas,Data manipulation and analysis,Data Visualization,pandas.pydata.org
+Matplotlib,2D plotting library,Data Visualization,matplotlib.org
+PyVista,3D plotting and mesh analysis,Data Visualization,pyvista.org
+Bokeh,Interactive visualization,Data Visualization,bokeh.org
+Plotly,Interactive plotting,Data Visualization,plotly.com
+XLwings,Control Excel from Python,Data Visualization,xlwings.org
+Dash,Web applications,Data Visualization,Dash by plotly.com
+Pyexcel,Spreadsheet manipulation,Data Visualization,https://docs.pyexcel.org/en/latest/
+Seaborn,Statistical data visualization,Data Visualization,seaborn.pydata.org
+CalcTree,Control and automate your calculations via API,"Automation, Data Visualization, Geotechnical, Hydrotechnical, calculation tools, scientific computing, structural",https://www.calctree.com/product/api
+Viktor,Low code web app creation for engineers,"3D Modelling / CAD, Data Visualization, calculation tools, scientific computing, structural",https://pypi.org/project/viktor/
+PyTekla,A thin Python wrapper around the .NET Tekla API.,structural,https://efdiloreto.github.io/PyTekla/api_reference/
+ak_sap,A Python wrapper to control SAP2000 FE models,structural,https://github.com/rpakishore/ak_sap
+PyCBA,Fast linear elastic analysis of general beam configurations,structural,https://pypi.org/project/PyCBA/
+Anastruct,2D frame analysis,structural,https://anastruct.readthedocs.io/en/latest/
+PyAbaqus,Control and scripting for Abaqus,structural,https://abqpy.readthedocs.io/projects/pyabaqus/en/latest/
+comtypes,CSI SAP2000 and Etabs manipulation,structural,https://pythonhosted.org/comtypes/
+sectionproperties,Cross-section analysis,structural,https://sectionproperties.readthedocs.io
+OpenSees,Finite element tasks,structural,https://opensees.berkeley.edu/
+PlaneSections,Finite element beam bending,structural,https://github.com/cslotboom/planesections#Documentation
+StruPy,Structural engineering design,structural,https://bitbucket.org/struthonteam/strupy/wiki/Home
+PyAnsys,Many Python packages for using Ansys,structural,https://docs.pyansys.com/
+Pynite,Simple finite element analysis,structural,https://pynite.readthedocs.io/en/latest/index.html
+IndeterminateBeam,Indeterminate beam solver,structural,https://github.com/JesseBonanno/IndeterminateBeam
+exdxf,"Read, modify, and create new DXF drawings with Python",3D Modelling / CAD,https://github.com/mozman/ezdxf
+rhino3dmpy,Geometry manipulation for Rhino 3D,3D Modelling / CAD,https://github.com/mcneel/rhino3dm
+Blender API,Excellent tool for controlling and extracting data,3D Modelling / CAD,https://docs.blender.org/api/current/index.html
+FreeCAD API,Scripting and extending FreeCAD capabilities,3D Modelling / CAD,https://wiki.freecad.org/Python
+pyRevit,Rapid prototyping API for Revit,3D Modelling / CAD,https://pyrevitlabs.notion.site/pyrevitlabs/pyRevit-bd907d6292ed4ce997c46e84b6ef67a0
+Compas,"A python framework with many tools for computational design, including Blender, Grasshopper, Rhino and more",3D Modelling / CAD,compas.dev
+pyautocad,COM for controlling Autocad,3D Modelling / CAD,https://pyautocad.readthedocs.io/en/latest/
+rhinoscriptsyntax,Scripting engine for Rhino,3D Modelling / CAD,https://github.com/mcneel/rhinoscriptsyntax
+BlenderBIM IFC API,Manipulate and control BlenderBIM,3D Modelling / CAD,https://blenderbim.org/docs-python/index.html
+Groundhog,Geotechnical calculation library,Geotechnical,https://groundhog.readthedocs.io/en/main/
+ObsPy,Python framework for processing seismological data,Geotechnical,https://docs.obspy.org/
+LiquPy,Liquefaction analysis using Python,Geotechnical,https://github.com/mhviraf/LiquPy
+FoundationDesign,Foundation analysis and design,Geotechnical,https://github.com/kunle009/FoundationDesign
+pySlope,Slope stability analysis,Geotechnical,https://github.com/JesseBonanno/PySlope
+PyAnchor,Soil anchor design,Geotechnical,https://github.com/tunnelsai-public/Civils.ai-PyAnchor
+Geotecha,Tools for geotechnical engineering analysis,Geotechnical,https://pypi.org/project/geotecha/
+ChannelFlowlib,Open Channel flow solver,Hydrotechnical,https://github.com/alexiusacademia/ChannelFlowLib
+raspy,HEC-RAS hydraulic modeling tools,Hydrotechnical,https://github.com/quantum-dan/raspy
+PyHSPF,Hydrological Simulation Program Fortran (HSPF) modeling,Hydrotechnical,https://pypi.org/project/pyhspf/
+Hydrostats,Hydrological data analysis and statistics,Hydrotechnical,https://pypi.org/project/hydrostats/
+Hydroengine,Hydrological and environmental data analysis tools,Hydrotechnical,https://github.com/openearth/hydro-engine
+fluids,Fluid dynamics library,Hydrotechnical,https://pypi.org/project/fluids/
+Shapely,Manipulates and analyzes planar geometric objects,GIS,https://pypi.org/project/shapely/
+Folium,"Creates interactive maps with Python, integrating Leaflet.js",GIS,https://pypi.org/project/folium/
+GeoPandas,Extends pandas for spatial data operations,GIS,https://geopandas.org/en/stable/
+PyQGIS,The Python API for QGIS,GIS,https://docs.qgis.org/3.28/en/docs/pyqgis_developer_cookbook/index.html
+Keras,High-level neural networks API,machine learning,keras.io
+PyTorch,Machine learning library,machine learning,pytorch.org
+TensorFlow,Machine learning and neural networks,machine learning,tensorflow.org
+Scikit-learn,Machine learning algorithms,machine learning,scikit-learn.org
+OpenCV,Computer vision and image processing,machine learning,opencv.org
+FastAPI,Create web APIs with Python,web dev,fastapi.tiangolo.com
+Django,High-level Python web framework,web dev,djangoproject.com
+Litestar,Lightweight API builder,web dev,litestar.dev
+Streamlit,Create apps and dashboards easily,web dev,streamlit.io
+Beautiful Soup,HTML and XML parsing,web dev,https://beautiful-soup-4.readthedocs.io/en/latest/
+Flask,Lightweight web development framework,web dev,palletsprojects.com
+Solara,Python web framework for reactive web apps,web dev,solara.dev
+Pydantic,Data validation,other,https://docs.pydantic.dev/latest/
+PySpark,Big data processing,other,spark.apache.org
+SQLAlchemy,Database toolkit,other,sqlalchemy.org
+PyTest,Testing framework,other,pytest.org
+Pint,A very useful unit conversion tool,calculation tools,https://pint.readthedocs.io/en/stable/
+Handcalcs,Python calculations into rendered LaTeX,calculation tools,https://github.com/connorferster/handcalcs
+forallpeople,Python SI units library,calculation tools,https://github.com/connorferster/forallpeople
+Tabulate,Pretty-print tabular data,calculation tools,https://pypi.org/project/tabulate/
+python-docx,"For reading, editing Microsoft Word documents",Automation,https://python-docx.readthedocs.io/en/latest/
+Watchdog,"Monitoring file system events, tracks changes in files/folders",Automation,https://pypi.org/project/watchdog/
+smtplib,Automate sending emails using SMTP.,Automation,https://docs.python.org/3/library/smtplib.html#smtp-example
+PyPDF,"Read, Extract text/images, merge, split, annotate PDF files",Automation,https://pypdf.readthedocs.io/en/stable/
+PyMuPDF,"Data extraction, analysis, conversion & manipulation of PDF",Automation,https://pymupdf.readthedocs.io/en/latest/
+pytesseract,Optical character recognition (OCR) tool for python.,Automation,https://pypi.org/project/pytesseract/
+Playwright,Automate your browser,Automation,https://playwright.dev/python/docs/intro
+pdfplumber,"Extract data from pdf’s, tables, text and images",Automation,https://github.com/jsvine/pdfplumber
+Selenium,Automate your browser or your local machine,Automation,https://www.selenium.dev/selenium-ide/
