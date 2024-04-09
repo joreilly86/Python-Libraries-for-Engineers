@@ -1,8 +1,8 @@
 # Python-Libraries-for-Engineers
 A growing database of relevant Python libraries for Professional Engineers. Predominantly for Civil, Structural, Geotechnical and Mechanical. From flocode.dev.
 
-| Library | Description                                                          | tag | Link |
-|---------|----------------------------------------------------------------------|-----|------|
+| Library | Description                                                           | tag | Link |
+|---------|-----------------------------------------------------------------------|-----|------|
 | efficalc | Render Python calculations clearly for review/reports | scientific computing | https://github.com/youandvern/efficalc |
 | SciPy | Scientific and technical computing | scientific computing | scipy.org |
 | NumPy | Advanced mathematical functions, array operations | scientific computing | numpy.org |
