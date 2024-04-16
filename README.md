@@ -73,6 +73,7 @@ If you have any questions or want to reach out, visit [flocode.dev](https://floc
 | [PyAnsys](https://docs.pyansys.com/) | Many Python packages for using Ansys | Structural |
 | [Pynite](https://pynite.readthedocs.io/en/latest/index.html) | Simple finite element analysis | Structural |
 | [IndeterminateBeam](https://github.com/JesseBonanno/IndeterminateBeam) | Indeterminate beam solver | Structural |
+| [steelpy](https://pypi.org/project/steelpy/) | A simple library for section properties of AISC steel shapes | Structural |
 | [exdxf](https://github.com/mozman/ezdxf) | Read, modify, and create new DXF drawings with Python | 3D Modelling / CAD |
 | [rhino3dmpy](https://github.com/mcneel/rhino3dm) | Geometry manipulation for Rhino 3D | 3D Modelling / CAD |
 | [Blender API](https://docs.blender.org/api/current/index.html) | Excellent tool for controlling and extracting data | 3D Modelling / CAD |
