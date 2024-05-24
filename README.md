@@ -13,7 +13,7 @@ For those interested in learning Python to enhance their engineering skills, vis
 - [Flocode Newsletter](https://flocode.substack.com) for insights and updates.
 - [Flocode Courses](https://flocode.dev/courses) for structured learning paths.
 
-The information is also available in a searchable format within the [Notion Database](https://joreilly.notion.site/11881f51d3ee47af9182592bfb974766?v=17f113774d30414bb4d7383ece09976c&pvs=4), which offers ease of management and access.
+The information is also available in a searchable format within the [Notion Database](https://flocode.notion.site/11881f51d3ee47af9182592bfb974766?v=17f113774d30414bb4d7383ece09976c&pvs=4), which offers ease of management and access.
 
 ## Contributing
 
