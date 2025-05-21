@@ -54,7 +54,7 @@ If you have any questions or want to reach out, visit [flocode.dev](https://floc
 | [pyRevit](https://pyrevitlabs.notion.site/pyrevitlabs/pyRevit-bd907d6292ed4ce997c46e84b6ef67a0) | Rapid prototyping API for Revit | 3D Modelling / CAD |
 | [pyautocad](https://pyautocad.readthedocs.io/en/latest/) | COM automation for AutoCAD | 3D Modelling / CAD |
 | [rhino3dmpy](https://github.com/mcneel/rhino3dm) | Geometry manipulation for Rhino 3D | 3D Modelling / CAD |
-| [rhinoscriptsyntax](https://github.com/mcneel/rhinoscriptsyntax) | Scripting engine for Rhino | 3D Modelling / CAD |
+| [rhinoscriptsyntax](https://github.mcneel/rhinoscriptsyntax) | Scripting engine for Rhino | 3D Modelling / CAD |
 | [SolidPython](https://github.com/SolidCode/SolidPython) | OpenSCAD-style 3D CAD scripting in Python | 3D Modelling / CAD |
 | [geolysis](https://pypi.org/project/geolysis/) | Soil classification and bearing capacity | Geotechnical |
 | [geotech-pandas](https://pypi.org/project/geotech-pandas/) | Pandas extension for geotechnical use | Geotechnical |
@@ -66,17 +66,24 @@ If you have any questions or want to reach out, visit [flocode.dev](https://floc
 | [OpenPile](https://pypi.org/project/openpile/) | Pile design using FEM/Winkler models | Geotechnical |
 | [pySlope](https://github.com/JesseBonanno/PySlope) | Slope stability analysis | Geotechnical |
 | [PyAnchor](https://github.com/tunnelsai-public/Civils.ai-PyAnchor) | Soil anchor design | Geotechnical |
+| [DeepFEM](link_to_documentation_or_repo) | Advanced finite element analysis in geomechanics | Geotechnical |
+| [GEOPY](link_to_documentation_or_repo) | General geotechnical calculations | Geotechnical |
 | [fluids](https://pypi.org/project/fluids/) | Fluid dynamics utilities | Hydrotechnical |
 | [ChannelFlowlib](https://github.com/alexiusacademia/ChannelFlowLib) | Open channel flow solver | Hydrotechnical |
 | [Hydroengine](https://github.com/openearth/hydro-engine) | Environmental/hydrological analysis tools | Hydrotechnical |
 | [Hydrostats](https://pypi.org/project/hydrostats/) | Hydrological statistics and analysis | Hydrotechnical |
 | [PyHSPF](https://pypi.org/project/pyhspf/) | Hydrological Simulation Program Fortran wrapper | Hydrotechnical |
 | [raspy](https://github.com/quantum-dan/raspy) | HEC-RAS Python tools | Hydrotechnical |
+| [WaterTAP](link_to_documentation_or_repo) | Water treatment process design and analysis | Hydrotechnical |
+| [PySWMM](link_to_documentation_or_repo) | Python wrapper for the Storm Water Management Model (SWMM) | Hydrotechnical |
+| [Hydrofunctions](link_to_documentation_or_repo) | Accessing and analyzing USGS hydrological data | Hydrotechnical |
 | [Keras](https://keras.io) | High-level deep learning API | Machine Learning |
 | [OpenCV](https://opencv.org) | Image processing and computer vision | Machine Learning |
 | [PyTorch](https://pytorch.org) | Deep learning framework | Machine Learning |
 | [Scikit-learn](https://scikit-learn.org) | Classical ML algorithms | Machine Learning |
 | [TensorFlow](https://tensorflow.org) | Deep learning and ML | Machine Learning |
+| [XGBoost](link_to_documentation_or_repo) | Gradient boosting framework for structured data | Machine Learning |
+| [LightGBM](link_to_documentation_or_repo) | High-performance gradient boosting framework | Machine Learning |
 | [DynPy](https://github.com/zzh8829/dynpy) | Dynamics system simulation | Mechanical |
 | [Shapely](https://pypi.org/project/shapely/) | Planar geometry operations | GIS |
 | [Folium](https://pypi.org/project/folium/) | Leaflet.js interactive maps | GIS |
@@ -86,11 +93,18 @@ If you have any questions or want to reach out, visit [flocode.dev](https://floc
 | [PySpark](https://spark.apache.org) | Big data distributed processing | Other |
 | [SQLAlchemy](https://sqlalchemy.org) | Database abstraction toolkit | Other |
 | [PyTest](https://pytest.org) | Unit testing framework | Other |
+| [Click](link_to_documentation_or_repo) | Creating command-line interfaces | Other |
+| [requests](link_to_documentation_or_repo) | Making HTTP requests | Other |
+| [tqdm](link_to_documentation_or_repo) | Displaying progress bars | Other |
 | [efficalc](https://github.com/youandvern/efficalc) | Render Python calculations clearly | Scientific Computing |
 | [Jupyter Notebook](https://jupyter.org) | Interactive computing interface | Scientific Computing |
 | [NumPy](https://numpy.org) | N-dimensional array operations | Scientific Computing |
 | [SciPy](https://scipy.org) | Scientific computing library | Scientific Computing |
 | [SymPy](https://sympy.org) | Symbolic mathematics | Scientific Computing |
+| [Pandas](link_to_documentation_or_repo) | Data manipulation and analysis | Data Analysis & Visualization |
+| [Matplotlib](link_to_documentation_or_repo) | Static, interactive, and animated visualizations | Data Analysis & Visualization |
+| [Seaborn](link_to_documentation_or_repo) | Statistical data visualization | Data Analysis & Visualization |
+| [Plotly](link_to_documentation_or_repo) | Interactive, web-based visualizations | Data Analysis & Visualization |
 | [Blueprints](https://github.com/bjpop/blueprints) | Structural calculations per Eurocode | Structural |
 | [IndeterminateBeam](https://github.com/JesseBonanno/IndeterminateBeam) | Indeterminate beam solver | Structural |
 | [Anastruct](https://anastruct.readthedocs.io/en/latest/) | 2D frame analysis | Structural |
@@ -110,6 +124,9 @@ If you have any questions or want to reach out, visit [flocode.dev](https://floc
 | [StructPy](https://github.com/smkalami/structpy) | Structural analysis via stiffness method | Structural |
 | [Viktor](https://pypi.org/project/viktor/) | Low-code platform for engineers | Structural |
 | [pycalculix](https://github.com/spacether/pycalculix) | 2D FEM solver via CalculiX | Structural |
+| [FEA Toolkit](link_to_documentation_or_repo) | Mesh generation for FEM | Structural |
+| [PyNiteCoupler](link_to_documentation_or_repo) | Integrates PyNite with other tools | Structural |
+| [Compyl](link_to_documentation_or_repo) | Structural code checking | Structural |
 | [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) | HTML/XML parsing | Web Dev |
 | [Django](https://djangoproject.com) | Full-featured web framework | Web Dev |
 | [FastAPI](https://fastapi.tiangolo.com) | Fast web APIs with type hints | Web Dev |
