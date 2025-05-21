@@ -54,7 +54,7 @@ If you have any questions or want to reach out, visit [flocode.dev](https://floc
 | [pyRevit](https://pyrevitlabs.notion.site/pyrevitlabs/pyRevit-bd907d6292ed4ce997c46e84b6ef67a0) | Rapid prototyping API for Revit | 3D Modelling / CAD |
 | [pyautocad](https://pyautocad.readthedocs.io/en/latest/) | COM automation for AutoCAD | 3D Modelling / CAD |
 | [rhino3dmpy](https://github.com/mcneel/rhino3dm) | Geometry manipulation for Rhino 3D | 3D Modelling / CAD |
-| [rhinoscriptsyntax](https://github.mcneel/rhinoscriptsyntax) | Scripting engine for Rhino | 3D Modelling / CAD |
+| [rhinoscriptsyntax](https://github.com/mcneel/rhinoscriptsyntax) | Scripting engine for Rhino | 3D Modelling / CAD |
 | [SolidPython](https://github.com/SolidCode/SolidPython) | OpenSCAD-style 3D CAD scripting in Python | 3D Modelling / CAD |
 | [geolysis](https://pypi.org/project/geolysis/) | Soil classification and bearing capacity | Geotechnical |
 | [geotech-pandas](https://pypi.org/project/geotech-pandas/) | Pandas extension for geotechnical use | Geotechnical |
@@ -96,6 +96,14 @@ If you have any questions or want to reach out, visit [flocode.dev](https://floc
 | [Click](link_to_documentation_or_repo) | Creating command-line interfaces | Other |
 | [requests](link_to_documentation_or_repo) | Making HTTP requests | Other |
 | [tqdm](link_to_documentation_or_repo) | Displaying progress bars | Other |
+| [Selenium](https://selenium-python.readthedocs.io/) | Web browser automation for testing and data extraction | Automation / Productivity |
+| [Cookiecutter](https://cookiecutter.readthedocs.io/) | Project templating from various template sources | Automation / Productivity |
+| [Fabric](https://www.fabfile.org/) | Streamlined SSH application deployment and system administration | Automation / Productivity |
+| [Invoke](https://docs.pyinvoke.org/) | Task execution and command-line management | Automation / Productivity |
+| [Pyautogui](https://pyautogui.readthedocs.io/) | GUI automation for controlling mouse and keyboard | Automation / Productivity |
+| [OpenPyXL](https://openpyxl.readthedocs.io/en/stable/) | Read/write Excel 2010 xlsx/xlsm/xltx/xltm files | Automation / Productivity |
+| [python-docx](https://python-docx.readthedocs.io/) | Create and update Microsoft Word .docx files | Automation / Productivity |
+| [ReportLab](https://www.reportlab.com/docs/reportlab-user-guide/) | Create PDF documents programmatically | Automation / Productivity |
 | [efficalc](https://github.com/youandvern/efficalc) | Render Python calculations clearly | Scientific Computing |
 | [Jupyter Notebook](https://jupyter.org) | Interactive computing interface | Scientific Computing |
 | [NumPy](https://numpy.org) | N-dimensional array operations | Scientific Computing |
@@ -134,8 +142,3 @@ If you have any questions or want to reach out, visit [flocode.dev](https://floc
 | [Litestar](https://litestar.dev) | Lightweight async API framework | Web Dev |
 | [Solara](https://solara.dev) | Reactive web apps for engineers | Web Dev |
 | [Streamlit](https://streamlit.io) | Rapid dashboards & apps | Web Dev |
-
-
-
-
-
