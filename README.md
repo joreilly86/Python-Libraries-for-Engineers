@@ -4,16 +4,14 @@
 
 ## About The Project
 
-This repository serves as a growing database of relevant Python libraries for professional engineers, with a focus on Civil, Structural, Geotechnical, and Mechanical disciplines. It is aimed at facilitating the discovery and use of Python for engineering tasks.
+This repository serves as a curated database of Python libraries for professional engineers, specifically focusing on Civil, Structural, Geotechnical, Hydrotechnical, Mechanical, and Electrical disciplines. It also includes sections for essential Data Analysis & Visualization, Machine Learning, and Automation / Productivity tools. The primary objective is to facilitate the discovery and application of Python in diverse engineering tasks.
 
 ## Explore More
 
 For those interested in learning Python to enhance their engineering skills, visit:
 
-- [Flocode Newsletter](https://flocode.substack.com) for insights and updates.
+- [Flocode Newsletter](https://flocode.substack.com) offers focused content on Python programming applications in civil and structural engineering, ranging from beginner to advanced levels. Content is tailored for engineers, not computer scientists, using clear and accessible language to explain Python's role in engineering.
 - [Flocode Courses](https://flocode.dev/courses) for structured learning paths.
-
-The information is also available in a searchable format within the [Notion Database](https://flocode.notion.site/11881f51d3ee47af9182592bfb974766?v=17f113774d30414bb4d7383ece09976c&pvs=4), which offers ease of management and access.
 
 ## Contributing
 
