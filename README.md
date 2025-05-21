@@ -42,98 +42,92 @@ If you have any questions or want to reach out, visit [flocode.dev](https://floc
 
 | Library | Description | Tag |
 |---------|-------------|-----|
-| [efficalc](https://github.com/youandvern/efficalc) | Render Python calculations clearly for review/reports | Scientific Computing |
-| [SciPy](https://scipy.org) | Scientific and technical computing | Scientific Computing |
-| [NumPy](https://numpy.org) | Advanced mathematical functions, array operations | Scientific Computing |
-| [SymPy](https://sympy.org) | Symbolic mathematics | Scientific Computing |
-| [Jupyter Notebook](https://jupyter.org) | It's not a library but interactive computing | Scientific Computing |
-| [PySpark](https://domino.ai/data-science-dictionary/pyspark) | Real-time, large-scale data processing | Data Visualization |
-| [Polars](https://pola.rs/) | Performant dataframe library for managing structured data | Data Visualization |
-| [Pandas](https://pandas.pydata.org) | Data manipulation and analysis | Data Visualization |
-| [Matplotlib](https://matplotlib.org) | 2D plotting library | Data Visualization |
-| [PyVista](https://pyvista.org) | 3D plotting and mesh analysis | Data Visualization |
-| [Bokeh](https://bokeh.org) | Interactive visualization | Data Visualization |
-| [Plotly](https://plotly.com) | Interactive plotting | Data Visualization |
-| [XLwings](https://xlwings.org) | Control Excel from Python | Data Visualization |
-| [Dash](https://plotly.com) | Web applications | Data Visualization |
-| [Pyexcel](https://docs.pyexcel.org/en/latest/) | Spreadsheet manipulation | Data Visualization |
-| [Seaborn](https://seaborn.pydata.org) | Statistical data visualization | Data Visualization |
+| [HandCalc](https://github.com/mitchgordon/handcalcs) | Render Python math in human-readable form using LaTeX | Calculation Tools |
 | [CalcTree](https://www.calctree.com/product/api) | Control and automate your calculations via API | Calculation Tools |
-| [Viktor](https://pypi.org/project/viktor/) | Low code web app creation for engineers | Structural |
-| [PyTekla](https://efdiloreto.github.io/PyTekla/api_reference/) | A thin Python wrapper around the .NET Tekla API. | Structural |
-| [ak_sap](https://github.com/rpakishore/ak_sap) | A Python wrapper to control SAP2000 FE models | Structural |
-| [PyCBA](https://pypi.org/project/PyCBA/) | Fast linear elastic analysis of general beam configurations | Structural |
-| [Anastruct](https://anastruct.readthedocs.io/en/latest/) | 2D frame analysis | Structural |
-| [PyAbaqus](https://abqpy.readthedocs.io/projects/pyabaqus/en/latest/) | Control and scripting for Abaqus | Structural |
-| [comtypes](https://pythonhosted.org/comtypes/) | CSI SAP2000 and Etabs manipulation | Structural |
-| [sectionproperties](https://sectionproperties.readthedocs.io) | Cross-section analysis | Structural |
-| [OpenSees](https://opensees.berkeley.edu/) | Finite element tasks | Structural |
-| [PlaneSections](https://github.com/cslotboom/planesections#Documentation) | Finite element beam bending | Structural |
-| [StruPy](https://bitbucket.org/struthonteam/strupy/wiki/Home) | Structural engineering design | Structural |
-| [PyAnsys](https://docs.pyansys.com/) | Many Python packages for using Ansys | Structural |
-| [Pynite](https://pynite.readthedocs.io/en/latest/index.html) | Simple finite element analysis | Structural |
-| [IndeterminateBeam](https://github.com/JesseBonanno/IndeterminateBeam) | Indeterminate beam solver | Structural |
-| [steelpy](https://pypi.org/project/steelpy/) | A simple library for section properties of AISC steel shapes | Structural |
-| [exdxf](https://github.com/mozman/ezdxf) | Read, modify, and create new DXF drawings with Python | 3D Modelling / CAD |
-| [rhino3dmpy](https://github.com/mcneel/rhino3dm) | Geometry manipulation for Rhino 3D | 3D Modelling / CAD |
-| [Blender API](https://docs.blender.org/api/current/index.html) | Excellent tool for controlling and extracting data | 3D Modelling / CAD |
-| [FreeCAD API](https://wiki.freecad.org/Python) | Scripting and extending FreeCAD capabilities | 3D Modelling / CAD |
+| [forallpeople](https://forallpeople.github.io/) | Units-aware calculations with dimensional consistency | Calculation Tools |
+
+| [CadQuery](https://cadquery.readthedocs.io/) | Script-based parametric CAD modeling | 3D Modelling / CAD |
+| [Compas](https://compas.dev) | Computational design framework | 3D Modelling / CAD |
+| [exdxf](https://github.com/mozman/ezdxf) | Read, modify, and create new DXF drawings | 3D Modelling / CAD |
+| [FreeCAD API](https://wiki.freecad.org/Python) | Scripting and extending FreeCAD | 3D Modelling / CAD |
+| [Blender API](https://docs.blender.org/api/current/index.html) | Control and extract data from Blender | 3D Modelling / CAD |
+| [BlenderBIM](https://blenderbim.org/docs-python/index.html) | Manipulate BlenderBIM | 3D Modelling / CAD |
 | [pyRevit](https://pyrevitlabs.notion.site/pyrevitlabs/pyRevit-bd907d6292ed4ce997c46e84b6ef67a0) | Rapid prototyping API for Revit | 3D Modelling / CAD |
-| [Compas](https://compas.dev) | A python framework with many tools for computational design | 3D Modelling / CAD |
-| [pyautocad](https://pyautocad.readthedocs.io/en/latest/) | COM for controlling Autocad | 3D Modelling / CAD |
+| [pyautocad](https://pyautocad.readthedocs.io/en/latest/) | COM automation for AutoCAD | 3D Modelling / CAD |
+| [rhino3dmpy](https://github.com/mcneel/rhino3dm) | Geometry manipulation for Rhino 3D | 3D Modelling / CAD |
 | [rhinoscriptsyntax](https://github.com/mcneel/rhinoscriptsyntax) | Scripting engine for Rhino | 3D Modelling / CAD |
-| [BlenderBIM](https://blenderbim.org/docs-python/index.html) | Manipulate and control BlenderBIM | 3D Modelling / CAD |
+| [SolidPython](https://github.com/SolidCode/SolidPython) | OpenSCAD-style 3D CAD scripting in Python | 3D Modelling / CAD |
+
+| [geolysis](https://pypi.org/project/geolysis/) | Soil classification and bearing capacity | Geotechnical |
+| [geotech-pandas](https://pypi.org/project/geotech-pandas/) | Pandas extension for geotechnical use | Geotechnical |
 | [Groundhog](https://groundhog.readthedocs.io/en/main/) | Geotechnical calculation library | Geotechnical |
-| [ObsPy](https://docs.obspy.org/) | Python framework for processing seismological data | Geotechnical |
-| [LiquPy](https://github.com/mhviraf/LiquPy) | Liquefaction analysis using Python | Geotechnical |
-| [FoundationDesign](https://github.com/kunle009/FoundationDesign) | Foundation analysis and design | Geotechnical |
+| [LiquPy](https://github.com/mhviraf/LiquPy) | Liquefaction analysis | Geotechnical |
+| [FoundationDesign](https://github.com/kunle009/FoundationDesign) | Foundation design calculations | Geotechnical |
+| [Geotecha](https://pypi.org/project/geotecha/) | Geotechnical engineering tools | Geotechnical |
+| [ObsPy](https://docs.obspy.org/) | Seismological data analysis | Geotechnical |
+| [OpenPile](https://pypi.org/project/openpile/) | Pile design using FEM/Winkler models | Geotechnical |
 | [pySlope](https://github.com/JesseBonanno/PySlope) | Slope stability analysis | Geotechnical |
 | [PyAnchor](https://github.com/tunnelsai-public/Civils.ai-PyAnchor) | Soil anchor design | Geotechnical |
-| [Geotecha](https://pypi.org/project/geotecha/) | Tools for geotechnical engineering analysis | Geotechnical |
-| [Shapely](https://pypi.org/project/shapely/) | Manipulates and analyzes planar geometric objects | GIS |
-| [Folium](https://pypi.org/project/folium/) | Creates interactive maps with Python, integrating Leaflet.js | GIS |
-| [GeoPandas](https://geopandas.org/en/stable/) | Extends pandas for spatial data operations | GIS |
-| [PyQGIS](https://docs.qgis.org/3.28/en/docs/pyqgis_developer_cookbook/index.html) | The Python API for QGIS | GIS |
-| [ChannelFlowlib](https://github.com/alexiusacademia/ChannelFlowLib) | Open Channel flow solver | Hydrotechnical |
-| [raspy](https://github.com/quantum-dan/raspy) | HEC-RAS hydraulic modeling tools | Hydrotechnical |
-| [PyHSPF](https://pypi.org/project/pyhspf/) | Hydrological Simulation Program Fortran (HSPF) modeling | Hydrotechnical |
-| [Hydrostats](https://pypi.org/project/hydrostats/) | Hydrological data analysis and statistics | Hydrotechnical |
-| [Hydroengine](https://github.com/openearth/hydro-engine) | Hydrological and environmental data analysis tools | Hydrotechnical |
-| [fluids](https://pypi.org/project/fluids/) | Fluid dynamics library | Hydrotechnical |
-| [Keras](https://keras.io) | High-level neural networks API | Machine Learning |
-| [PyTorch](https://pytorch.org) | Machine learning library | Machine Learning |
-| [TensorFlow](https://tensorflow.org) | Machine learning and neural networks | Machine Learning |
-| [Scikit-learn](https://scikit-learn.org) | Machine learning algorithms | Machine Learning |
-| [OpenCV](https://opencv.org) | Computer vision and image processing | Machine Learning |
-| [Pydantic](https://docs.pydantic.dev/latest/) | Data validation | Other |
-| [PySpark](https://spark.apache.org) | Big data processing | Other |
-| [SQLAlchemy](https://sqlalchemy.org) | Database toolkit | Other |
-| [PyTest](https://pytest.org) | Testing framework | Other |
-| [efficalc](https://github.com/youandvern/efficalc) | Render Python calculations clearly for review/reports | Scientific Computing |
-| [SciPy](https://scipy.org) | Scientific and technical computing | Scientific Computing |
-| [NumPy](https://numpy.org) | Advanced mathematical functions, array operations | Scientific Computing |
+
+| [fluids](https://pypi.org/project/fluids/) | Fluid dynamics utilities | Hydrotechnical |
+| [ChannelFlowlib](https://github.com/alexiusacademia/ChannelFlowLib) | Open channel flow solver | Hydrotechnical |
+| [Hydroengine](https://github.com/openearth/hydro-engine) | Environmental/hydrological analysis tools | Hydrotechnical |
+| [Hydrostats](https://pypi.org/project/hydrostats/) | Hydrological statistics and analysis | Hydrotechnical |
+| [PyHSPF](https://pypi.org/project/pyhspf/) | Hydrological Simulation Program Fortran wrapper | Hydrotechnical |
+| [raspy](https://github.com/quantum-dan/raspy) | HEC-RAS Python tools | Hydrotechnical |
+
+| [Keras](https://keras.io) | High-level deep learning API | Machine Learning |
+| [OpenCV](https://opencv.org) | Image processing and computer vision | Machine Learning |
+| [PyTorch](https://pytorch.org) | Deep learning framework | Machine Learning |
+| [Scikit-learn](https://scikit-learn.org) | Classical ML algorithms | Machine Learning |
+| [TensorFlow](https://tensorflow.org) | Deep learning and ML | Machine Learning |
+
+| [DynPy](https://github.com/zzh8829/dynpy) | Dynamics system simulation | Mechanical |
+
+| [Shapely](https://pypi.org/project/shapely/) | Planar geometry operations | GIS |
+| [Folium](https://pypi.org/project/folium/) | Leaflet.js interactive maps | GIS |
+| [GeoPandas](https://geopandas.org/en/stable/) | Spatial operations with pandas | GIS |
+| [PyQGIS](https://docs.qgis.org/3.28/en/docs/pyqgis_developer_cookbook/index.html) | QGIS API in Python | GIS |
+
+| [Pydantic](https://docs.pydantic.dev/latest/) | Data validation with type hints | Other |
+| [PySpark](https://spark.apache.org) | Big data distributed processing | Other |
+| [SQLAlchemy](https://sqlalchemy.org) | Database abstraction toolkit | Other |
+| [PyTest](https://pytest.org) | Unit testing framework | Other |
+
+| [efficalc](https://github.com/youandvern/efficalc) | Render Python calculations clearly | Scientific Computing |
+| [Jupyter Notebook](https://jupyter.org) | Interactive computing interface | Scientific Computing |
+| [NumPy](https://numpy.org) | N-dimensional array operations | Scientific Computing |
+| [SciPy](https://scipy.org) | Scientific computing library | Scientific Computing |
 | [SymPy](https://sympy.org) | Symbolic mathematics | Scientific Computing |
-| [Jupyter Notebook](https://jupyter.org) | Interactive computing | Scientific Computing |
-| [PyTekla](https://efdiloreto.github.io/PyTekla/api_reference/) | A thin Python wrapper around the .NET Tekla API. | Structural |
-| [ak_sap](https://github.com/rpakishore/ak_sap) | A Python wrapper to control SAP2000 FE models | Structural |
-| [PyCBA](https://pypi.org/project/PyCBA/) | Fast linear elastic analysis of general beam configurations | Structural |
-| [Anastruct](https://anastruct.readthedocs.io/en/latest/) | 2D frame analysis | Structural |
-| [PyAbaqus](https://abqpy.readthedocs.io/projects/pyabaqus/en/latest/) | Control and scripting for Abaqus | Structural |
-| [comtypes](https://pythonhosted.org/comtypes/) | CSI SAP2000 and Etabs manipulation | Structural |
-| [sectionproperties](https://sectionproperties.readthedocs.io) | Cross-section analysis | Structural |
-| [OpenSees](https://opensees.berkeley.edu/) | Finite element tasks | Structural |
-| [PlaneSections](https://github.com/cslotboom/planesections#Documentation) | Finite element beam bending | Structural |
-| [StruPy](https://bitbucket.org/struthonteam/strupy/wiki/Home) | Structural engineering design | Structural |
-| [PyAnsys](https://docs.pyansys.com/) | Many Python packages for using Ansys | Structural |
-| [Pynite](https://pynite.readthedocs.io/en/latest/index.html) | Simple finite element analysis | Structural |
+
+| [Blueprints](https://github.com/bjpop/blueprints) | Structural calculations per Eurocode | Structural |
 | [IndeterminateBeam](https://github.com/JesseBonanno/IndeterminateBeam) | Indeterminate beam solver | Structural |
-| [FastAPI](https://fastapi.tiangolo.com) | Create web APIs with Python | Web Dev |
-| [Django](https://djangoproject.com) | High-level Python web framework | Web Dev |
-| [Litestar](https://litestar.dev) | Lightweight API builder | Web Dev |
-| [Streamlit](https://streamlit.io) | Create apps and dashboards easily | Web Dev |
-| [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) | HTML and XML parsing | Web Dev |
-| [Flask](https://palletsprojects.com) | Lightweight web development framework | Web Dev |
-| [Solara](https://solara.dev) | Python web framework for reactive web apps | Web Dev |
+| [Anastruct](https://anastruct.readthedocs.io/en/latest/) | 2D frame analysis | Structural |
+| [ak_sap](https://github.com/rpakishore/ak_sap) | SAP2000 FE model control | Structural |
+| [comtypes](https://pythonhosted.org/comtypes/) | SAP2000/Etabs automation | Structural |
+| [OpenSees](https://opensees.berkeley.edu/) | General FEM analysis | Structural |
+| [sectionproperties](https://sectionproperties.readthedocs.io) | Cross-section property analysis | Structural |
+| [PyAbaqus](https://abqpy.readthedocs.io/projects/pyabaqus/en/latest/) | Abaqus scripting | Structural |
+| [PyAnsys](https://docs.pyansys.com/) | Ansys automation tools | Structural |
+| [PyCBA](https://pypi.org/project/PyCBA/) | Beam analysis via stiffness method | Structural |
+| [Pynite](https://pynite.readthedocs.io/en/latest/index.html) | General finite element solver | Structural |
+| [PyTekla](https://efdiloreto.github.io/PyTekla/api_reference/) | Tekla Structures automation | Structural |
+| [PlaneSections](https://github.com/cslotboom/planesections#Documentation) | Beam bending and moment visualization | Structural |
+| [Steelpy](https://pypi.org/project/steelpy/) | AISC steel section properties | Structural |
+| [StruPy](https://bitbucket.org/struthonteam/strupy/wiki/Home) | General structural design library | Structural |
+| [StructuralCodes](https://github.com/fib-international/structuralcodes) | Code-compliant structural design (fib/Eurocode) | Structural |
+| [StructPy](https://github.com/smkalami/structpy) | Structural analysis via stiffness method | Structural |
+| [Viktor](https://pypi.org/project/viktor/) | Low-code platform for engineers | Structural |
+| [pycalculix](https://github.com/spacether/pycalculix) | 2D FEM solver via CalculiX | Structural |
+
+| [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) | HTML/XML parsing | Web Dev |
+| [Django](https://djangoproject.com) | Full-featured web framework | Web Dev |
+| [FastAPI](https://fastapi.tiangolo.com) | Fast web APIs with type hints | Web Dev |
+| [Flask](https://palletsprojects.com) | Lightweight web framework | Web Dev |
+| [Litestar](https://litestar.dev) | Lightweight async API framework | Web Dev |
+| [Solara](https://solara.dev) | Reactive web apps for engineers | Web Dev |
+| [Streamlit](https://streamlit.io) | Rapid dashboards & apps | Web Dev |
+
 
 
 
