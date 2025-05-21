@@ -45,7 +45,6 @@ If you have any questions or want to reach out, visit [flocode.dev](https://floc
 | [HandCalc](https://github.com/mitchgordon/handcalcs) | Render Python math in human-readable form using LaTeX | Calculation Tools |
 | [CalcTree](https://www.calctree.com/product/api) | Control and automate your calculations via API | Calculation Tools |
 | [forallpeople](https://forallpeople.github.io/) | Units-aware calculations with dimensional consistency | Calculation Tools |
-
 | [CadQuery](https://cadquery.readthedocs.io/) | Script-based parametric CAD modeling | 3D Modelling / CAD |
 | [Compas](https://compas.dev) | Computational design framework | 3D Modelling / CAD |
 | [exdxf](https://github.com/mozman/ezdxf) | Read, modify, and create new DXF drawings | 3D Modelling / CAD |
@@ -57,7 +56,6 @@ If you have any questions or want to reach out, visit [flocode.dev](https://floc
 | [rhino3dmpy](https://github.com/mcneel/rhino3dm) | Geometry manipulation for Rhino 3D | 3D Modelling / CAD |
 | [rhinoscriptsyntax](https://github.com/mcneel/rhinoscriptsyntax) | Scripting engine for Rhino | 3D Modelling / CAD |
 | [SolidPython](https://github.com/SolidCode/SolidPython) | OpenSCAD-style 3D CAD scripting in Python | 3D Modelling / CAD |
-
 | [geolysis](https://pypi.org/project/geolysis/) | Soil classification and bearing capacity | Geotechnical |
 | [geotech-pandas](https://pypi.org/project/geotech-pandas/) | Pandas extension for geotechnical use | Geotechnical |
 | [Groundhog](https://groundhog.readthedocs.io/en/main/) | Geotechnical calculation library | Geotechnical |
@@ -68,38 +66,31 @@ If you have any questions or want to reach out, visit [flocode.dev](https://floc
 | [OpenPile](https://pypi.org/project/openpile/) | Pile design using FEM/Winkler models | Geotechnical |
 | [pySlope](https://github.com/JesseBonanno/PySlope) | Slope stability analysis | Geotechnical |
 | [PyAnchor](https://github.com/tunnelsai-public/Civils.ai-PyAnchor) | Soil anchor design | Geotechnical |
-
 | [fluids](https://pypi.org/project/fluids/) | Fluid dynamics utilities | Hydrotechnical |
 | [ChannelFlowlib](https://github.com/alexiusacademia/ChannelFlowLib) | Open channel flow solver | Hydrotechnical |
 | [Hydroengine](https://github.com/openearth/hydro-engine) | Environmental/hydrological analysis tools | Hydrotechnical |
 | [Hydrostats](https://pypi.org/project/hydrostats/) | Hydrological statistics and analysis | Hydrotechnical |
 | [PyHSPF](https://pypi.org/project/pyhspf/) | Hydrological Simulation Program Fortran wrapper | Hydrotechnical |
 | [raspy](https://github.com/quantum-dan/raspy) | HEC-RAS Python tools | Hydrotechnical |
-
 | [Keras](https://keras.io) | High-level deep learning API | Machine Learning |
 | [OpenCV](https://opencv.org) | Image processing and computer vision | Machine Learning |
 | [PyTorch](https://pytorch.org) | Deep learning framework | Machine Learning |
 | [Scikit-learn](https://scikit-learn.org) | Classical ML algorithms | Machine Learning |
 | [TensorFlow](https://tensorflow.org) | Deep learning and ML | Machine Learning |
-
 | [DynPy](https://github.com/zzh8829/dynpy) | Dynamics system simulation | Mechanical |
-
 | [Shapely](https://pypi.org/project/shapely/) | Planar geometry operations | GIS |
 | [Folium](https://pypi.org/project/folium/) | Leaflet.js interactive maps | GIS |
 | [GeoPandas](https://geopandas.org/en/stable/) | Spatial operations with pandas | GIS |
 | [PyQGIS](https://docs.qgis.org/3.28/en/docs/pyqgis_developer_cookbook/index.html) | QGIS API in Python | GIS |
-
 | [Pydantic](https://docs.pydantic.dev/latest/) | Data validation with type hints | Other |
 | [PySpark](https://spark.apache.org) | Big data distributed processing | Other |
 | [SQLAlchemy](https://sqlalchemy.org) | Database abstraction toolkit | Other |
 | [PyTest](https://pytest.org) | Unit testing framework | Other |
-
 | [efficalc](https://github.com/youandvern/efficalc) | Render Python calculations clearly | Scientific Computing |
 | [Jupyter Notebook](https://jupyter.org) | Interactive computing interface | Scientific Computing |
 | [NumPy](https://numpy.org) | N-dimensional array operations | Scientific Computing |
 | [SciPy](https://scipy.org) | Scientific computing library | Scientific Computing |
 | [SymPy](https://sympy.org) | Symbolic mathematics | Scientific Computing |
-
 | [Blueprints](https://github.com/bjpop/blueprints) | Structural calculations per Eurocode | Structural |
 | [IndeterminateBeam](https://github.com/JesseBonanno/IndeterminateBeam) | Indeterminate beam solver | Structural |
 | [Anastruct](https://anastruct.readthedocs.io/en/latest/) | 2D frame analysis | Structural |
@@ -119,7 +110,6 @@ If you have any questions or want to reach out, visit [flocode.dev](https://floc
 | [StructPy](https://github.com/smkalami/structpy) | Structural analysis via stiffness method | Structural |
 | [Viktor](https://pypi.org/project/viktor/) | Low-code platform for engineers | Structural |
 | [pycalculix](https://github.com/spacether/pycalculix) | 2D FEM solver via CalculiX | Structural |
-
 | [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) | HTML/XML parsing | Web Dev |
 | [Django](https://djangoproject.com) | Full-featured web framework | Web Dev |
 | [FastAPI](https://fastapi.tiangolo.com) | Fast web APIs with type hints | Web Dev |
