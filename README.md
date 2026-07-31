@@ -69,6 +69,7 @@ If you have any questions or want to reach out, visit [flocode.dev](https://floc
 | [pySlope](https://github.com/JesseBonanno/PySlope) | Slope stability analysis | Geotechnical |
 | [PyAnchor](https://github.com/tunnelsai-public/Civils.ai-PyAnchor) | Soil anchor design | Geotechnical |
 | [bedrock-ge](https://github.com/bedrock-engineer/bedrock-ge) | General geotechnical calculations and data management | Geotechnical |
+| [GeoEq](https://github.com/geoeq/geoeq) | Onshore geotechnical workflow: soil classification, lab testing, SPT/CPT, foundation design, dynamics and liquefaction | Geotechnical |
 | [fluids](https://pypi.org/project/fluids/) | Fluid dynamics utilities | Hydrotechnical |
 | [ChannelFlowlib](https://github.com/alexiusacademia/ChannelFlowLib) | Open channel flow solver | Hydrotechnical |
 | [Hydroengine](https://github.com/openearth/hydro-engine) | Environmental/hydrological analysis tools | Hydrotechnical |
