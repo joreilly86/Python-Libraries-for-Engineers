@@ -120,6 +120,7 @@ If you have any questions or want to reach out, visit [flocode.dev](https://floc
 | [ak_sap](https://github.com/rpakishore/ak_sap) | SAP2000 FE model control | Structural |
 | [comtypes](https://pythonhosted.org/comtypes/) | SAP2000/Etabs automation | Structural |
 | [OpenSees](https://opensees.berkeley.edu/) | General FEM analysis | Structural |
+| [AgentFEM](https://github.com/haoming-luo/agentfem) | FEniCSx-based finite-element projects for structural and thermal analysis, with Python, CLI, and AI-assistant workflows | Structural |
 | [sectionproperties](https://sectionproperties.readthedocs.io) | Cross-section property analysis | Structural |
 | [PyAbaqus](https://abqpy.readthedocs.io/projects/pyabaqus/en/latest/) | Abaqus scripting | Structural |
 | [PyAnsys](https://docs.pyansys.com/) | Ansys automation tools | Structural |
